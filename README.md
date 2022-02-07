@@ -16,7 +16,7 @@
 
 - [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
-  > 一个使用 React 构建的区块链项目，3 个小时带你讲解 React 项目如何于 MetaMask 交互？如何使用 Solidity 编写智能合约并通过区块链发送交易？
+  > 一个 React 构建的区块链项目，3 个小时带你讲解 React 项目如何与 Metamask 交互？如何使用 Solidity 编写智能合约并通过区块链发送交易？
 
 ## 图书
 
@@ -36,19 +36,21 @@
 
 ## 开发资源
 
+- [MetaMask](https://metamask.io/)
+
+  > 一款浏览器插件，用于与以太坊区块链进行交互加密货币钱包。截至 2021 年 8 月，吸引了大约一千万名活跃用户。
+
 - [Web3.js](https://github.com/ChainSafe/web3.js)
 
-  > Web3.js 拥有一个与以太坊基金会相关的用户和维护者社区。它提供实用的 API 参考。从大约 2015 年开始，它在许多项目中被广泛使用。因此，该库已经成为许多“构建去中心化应用新手入门”教程的“必备资源”。
+  > 一个和以太坊交互的 JavaScript 库，2015 年开始流行，在许多项目广泛使用，是很多入门教程的库。
 
 - [Ethers.js](https://github.com/ethers-io/ethers.js/)
 
-  > Ethers.js 的优势之处在于紧凑小巧，同时又包含大量测试案例。它提供实用的“新手入门”文档，因此新用户也可使用。许多开发者评价 ethers.js 使用起来“简单”、“直观”，并且该库在近两年越来越受欢迎，下载量和在项目中的使用量也不断增加。
+  > 跟 Web3.js 一样，提供以太坊 API 的 JS 库。Ethers.js 的优势在于紧凑小巧，同时又包含大量测试案例。该库最近越来越受欢迎，下载量和在项目中的使用量也不断增加。
 
 - [Hardhat](https://hardhat.org/getting-started/)
 
-  > 一个集成编译、部署、测试和调试 Ethereum 应用的框架
-
-- [Hardhat 文档（中文版）](https://learnblockchain.cn/docs/hardhat/tutorial/)
+  > 一个集成编译、部署、测试和调试 Ethereum 应用的开发环境，使用 JavaScript 编写，构建在 Node.js，这是[中文版开发文档](https://learnblockchain.cn/docs/hardhat/tutorial/)。
 
 - [useMetamask](https://github.com/mdtanrikulu/use-metamask)
 
@@ -56,9 +58,7 @@
 
 - [Solidity 开发文档](https://docs.soliditylang.org/en/latest/)
 
-  > Solidity 是一门面向智能合约开发的变成语言，运行在 Ethereum 虚拟机（EVM）上。
-
-- [Solidity 开发文档（中文版）](https://learnblockchain.cn/docs/solidity/)
+  > Solidity 是一门面向智能合约开发的变成语言，运行在 Ethereum 虚拟机（EVM）上，这是[中文版开发文档](https://learnblockchain.cn/docs/solidity/)。
 
 - [Remix - Ethereum IDE](https://remix.ethereum.org/)
 
