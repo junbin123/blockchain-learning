@@ -1,4 +1,4 @@
-# 区块链学习资源
+# 学习区块链开发
 
 ## 视频
 
@@ -17,6 +17,8 @@
 - [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
   > 一个 React 构建的区块链项目，3 个小时带你讲解 React 项目如何与 Metamask 交互？如何使用 Solidity 编写智能合约并通过区块链发送交易？
+
+- [《区块链之新》-纪录片/豆瓣 8.7 分](https://www.bilibili.com/bangumi/play/ep290332)
 
 ## 图书
 
@@ -38,7 +40,7 @@
 
 - [MetaMask](https://metamask.io/)
 
-  > 一款浏览器插件，用于与以太坊区块链进行交互加密货币钱包。截至 2021 年 8 月，吸引了大约一千万名活跃用户。
+  > 一款浏览器插件，核心是向页面注入以太坊提供的 web3.js，使 DApp 连接到以太坊节点服务，并进行交互的加密货币钱包。截至 2021 年 8 月，已经吸引了大约一千万名活跃用户。
 
 - [Web3.js](https://github.com/ChainSafe/web3.js)
 
