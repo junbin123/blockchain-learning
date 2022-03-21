@@ -13,6 +13,7 @@
 - [Solidity by Example](https://solidity-by-example.org/)
 
   > 官方提供的代码案例，代码片段不长，每个案例都有的对应的 solidity 知识点，首次接触 solidity 看的会比较枯燥，官方提供了[视频教学](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)，你可以使用在线编辑器 [Remix](https://remix.ethereum.org/) 练习每个案例。
+  > 也推荐在这网站学习 [Smart Contract Engineer](https://www.smartcontract.engineer/)。
 
 - [Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 
